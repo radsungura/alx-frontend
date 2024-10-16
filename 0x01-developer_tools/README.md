@@ -1,3 +1,3 @@
 # 0x01. Developer tools
 
-0. Responsive device
+Developer tools initiations from ALX  Program Frontend specialization
